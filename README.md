@@ -1,2 +1,7 @@
 # python-ai-tools-briefing
-A quick read before your shift: new Python AI tools and libraries, enterprise and open source
+
+AI tools and libraries on Python: a quick read before you start your shift. Each day I add a short digest on new Python libraries, SDKs and tools, covering both enterprise offerings (cloud vendors, data platforms, hardware vendors) and open source projects. Every item links to the release or changelog it came from.
+
+## Digests
+
+- [2026-11-10](digests/2026-11-10.md)
