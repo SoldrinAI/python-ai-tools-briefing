@@ -4,6 +4,7 @@ AI tools and libraries on Python: a quick read before you start your shift. Each
 
 ## Digests
 
+- [2026-11-28](digests/2026-11-28.md)
 - [2026-11-27](digests/2026-11-27.md)
 - [2026-11-26](digests/2026-11-26.md)
 - [2026-11-25](digests/2026-11-25.md)
